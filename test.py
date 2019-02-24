@@ -5,3 +5,5 @@ for i in range(2):
 	x = n.pop(i)
 	m.append(x)
 	print(m)
+
+print("wibu")
